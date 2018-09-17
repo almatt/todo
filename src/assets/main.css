@@ -1,0 +1,16 @@
+
+.clearfix{
+	clear:both;
+}
+
+.main-holder{
+	margin:25px auto;
+}
+
+.badge, td, th{
+	cursor: pointer;
+}
+
+.btn.btn-primary{
+	margin:15px 0;
+}
